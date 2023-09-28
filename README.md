@@ -3,7 +3,7 @@
 
 **cirospat** is the main ✨ repository ✨  because this `README.md` page appears on my GitHub profile.
 
-Here are some ideas to get you started:
+#### What I do:
 
 - 🔭 I’m currently working on project documentation projects
 - 🌱 I’m currently learning Markdown and some of command line
