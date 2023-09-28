@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**cirospat** is the main ✨ repository ✨  because this `README.md` (this file) appears on my GitHub profile.
+**cirospat** is the main ✨ repository ✨  because this `README.md` page appears on my GitHub profile.
 
 Here are some ideas to get you started:
 
