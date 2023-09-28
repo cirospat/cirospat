@@ -11,4 +11,4 @@
 - 🤔 I’m looking for help with lots of issues
 - 💬 Ask me about Gitbook
 - 📫 How to reach me: cirospat@gmail.com
-- 😄 Hobbies: trekking on mountains
+- 😄 Hobbies: trekking on mountains & snorelling at sea
